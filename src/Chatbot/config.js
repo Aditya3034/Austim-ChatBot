@@ -18,6 +18,7 @@ const config = {
     state: {
         currentQuestionIndex: null, // Initialize to null or 0
         data,
+        showWidget: true,
         userData: {
             name: "",
             age: 0,

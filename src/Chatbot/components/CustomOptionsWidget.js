@@ -1,11 +1,11 @@
 import React from 'react';
 
 const CustomOptionsWidget = (props) => {
+   
     const {actions, state} = props;
     const {customOptions } = state.currentQuestion;
-    console.log("Custom OptionsWidget");
-    
-    console.log(customOptions);
+    if (!state.showWidget) return null;
+
     
     // Check if question is defined and has customOptions
     const options = customOptions || [];
