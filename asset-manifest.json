@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Austim-ChatBot/static/css/main.c90baf90.css",
-    "main.js": "/Austim-ChatBot/static/js/main.011b30b9.js",
+    "main.js": "/Austim-ChatBot/static/js/main.5133052f.js",
     "static/js/787.3b4688a2.chunk.js": "/Austim-ChatBot/static/js/787.3b4688a2.chunk.js",
     "index.html": "/Austim-ChatBot/index.html",
     "main.c90baf90.css.map": "/Austim-ChatBot/static/css/main.c90baf90.css.map",
-    "main.011b30b9.js.map": "/Austim-ChatBot/static/js/main.011b30b9.js.map",
+    "main.5133052f.js.map": "/Austim-ChatBot/static/js/main.5133052f.js.map",
     "787.3b4688a2.chunk.js.map": "/Austim-ChatBot/static/js/787.3b4688a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c90baf90.css",
-    "static/js/main.011b30b9.js"
+    "static/js/main.5133052f.js"
   ]
 }
